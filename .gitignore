@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.env
+ChatBoxAI/node_modules/
+ChatBoxAI/dist/
